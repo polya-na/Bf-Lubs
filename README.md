@@ -20,4 +20,4 @@ na primeira análise entendemos que o maior problema era a categoria CA06, agora
 categoria. 
 
 <br><br>
-<a href="https://app.powerbi.com/view?r=eyJrIjoiYTE3ODdlM2UtN2RjNi00MmY4LThmYWMtMjIwNDZhZTExNTc2IiwidCI6ImNlYTM2Y2QyLTI5MjEtNGNmZi1iZGY3LWFmYzAwNDNmZDliMSJ9" target="_blank"> Clique aqui para acessar o Dashboard
+<a href="https://app.powerbi.com/view?r=eyJrIjoiYTE3ODdlM2UtN2RjNi00MmY4LThmYWMtMjIwNDZhZTExNTc2IiwidCI6ImNlYTM2Y2QyLTI5MjEtNGNmZi1iZGY3LWFmYzAwNDNmZDliMSJ9" target="_blank"> Clique aqui para acessar o Dashboard</a>
