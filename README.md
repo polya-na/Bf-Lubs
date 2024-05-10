@@ -14,7 +14,7 @@ em todas as localizações de atuação são feitas atrasadas. Ao detectar esse 
 
 <br><br>
 <img align="right" width="500"  src="https://github.com/polya-na/Bf-Lubs/blob/main/Imagens/delivery-detail.png?raw=true">
-<br><br><br>
+<br>
 No intuito de analisar mais afundo as entregas, criei uma terceira tela com os detalhes numa tabela no intuito de entender dentro de cada categoria qual produto estava afetando as entregas negativamente. Por exemplo,
 na primeira análise entendemos que o maior problema era a categoria CA06, agora estamos vendo qual produto desta categoria mais tem afetado o resultado negativamente. Colocamos uma média de atraso para cada produto e
 categoria. 
