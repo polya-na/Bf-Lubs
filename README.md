@@ -19,4 +19,5 @@ No intuito de analisar mais afundo as entregas, criei uma terceira tela com os d
 na primeira análise entendemos que o maior problema era a categoria CA06, agora estamos vendo qual produto desta categoria mais tem afetado o resultado negativamente. Colocamos uma média de atraso para cada produto e
 categoria. 
 
+<br><br>
 <a href="https://app.powerbi.com/view?r=eyJrIjoiMTkxYmZiMTctN2M2My00NjQyLWJmMWQtYzRhNDkzNTYwOTc0IiwidCI6ImNlYTM2Y2QyLTI5MjEtNGNmZi1iZGY3LWFmYzAwNDNmZDliMSJ9" target="_blank">Clique aqui para acessar o Dashboard</a>
