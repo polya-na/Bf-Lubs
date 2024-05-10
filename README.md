@@ -4,7 +4,7 @@
 Neste Dashboard estou utilizando uma base de dados importada diretamente do excel, é uma empresa de lubrificantes e aditivos. Foi o meu segundo projeto e nesse eu resolvi focar nas medidas, ao relizar o download do arquivo é possível dar uma olhada em todas.
 Começo comparando as vendas do ano atual com a  do ano passado, isso vai variando de acordo com o filtro no menu principal. Coloco a margem (lucro ou prejuízo) de um ano em relação ao outro e a porcentagem. Adicionei
 um marcador diferente nos campos onde informo as variações, quando o valor do ano atual é menor em relação ao anterior ele fica vermelho. Temos um gráfico rosca representando as vendas por business line (lubrificantes e aditivos),
-um gráfico representando as vendas por divisão. Como essa é uma análise de vendas fazendo uma comparação com o ano interior achei importante um gráfico representando as vendas por mês. No geral o ano de 2022 se sobressaiu, entretando
+um gráfico representando as vendas por divisão. Como essa é uma análise de vendas fazendo uma comparação com o ano anterior achei importante um gráfico representando as vendas por mês. No geral o ano de 2022 se sobressaiu, entretando
 novembro foi um mês que quebrou esse padrão, nesse mês especificamente as vendas na região centroeste/sudeste caiu.
 <br><br>
 
