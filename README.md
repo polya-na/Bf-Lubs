@@ -6,7 +6,7 @@ Começo comparando as vendas do ano atual com a  do ano passado, isso vai varian
 um marcador diferente nos campos onde informo as variações, quando o valor do ano atual é menor em relação ao anterior ele fica vermelho. Temos um gráfico rosca representando as vendas por business line (lubrificantes e aditivos),
 um gráfico representando as vendas por divisão. Como essa é uma análise de vendas fazendo uma comparação com o ano anterior achei importante um gráfico representando as vendas por mês. No geral o ano de 2022 se sobressaiu, entretando
 novembro foi um mês que quebrou esse padrão, nesse mês especificamente as vendas na região centroeste/sudeste caiu.
-<br><br>
+<br>
 
 <img align="left" width="500"  src="https://github.com/polya-na/Bf-Lubs/blob/main/Imagens/delivery-overview.png?raw=true">
 Também foi feita uma análise das entregas que foram divididas em "On time" ou "Late". No primeiro marcador temos a quantidade de entregas, no segundo destacamos os que foram entregues no prazo e é possível notar que as entregas
